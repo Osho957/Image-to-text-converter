@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771407120317",
+    "project_id": "imagetotext-8df66",
+    "storage_bucket": "imagetotext-8df66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771407120317:android:e7e4ce32aa5791ef2ff4d4",
+        "android_client_info": {
+          "package_name": "com.example.image_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771407120317-9msl5s7on2d93n8docqlb53docs4r7al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEbuyuNi95bZGdbHQAoYJtPjLPOkRDUEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771407120317-9msl5s7on2d93n8docqlb53docs4r7al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
